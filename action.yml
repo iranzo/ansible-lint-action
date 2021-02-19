@@ -1,6 +1,6 @@
-name: Ansible Lint
+name: Ansible Lint Checker
 description: Run Ansible Lint
-author: Ansible by Red Hat <info@ansible.com>
+author: Based on the work by Ansible by Red Hat <info@ansible.com>
 
 inputs:
   args:

@@ -1,0 +1,17 @@
+{
+  "ignoreUrls": true,
+  "findRepeatWords": true,
+  "maxRequests": 5,
+  "ignoreDigits": true,
+  "lang": "en",
+  "dictionary": [
+    "GitHub",
+    "SHA",
+    "Dockerfile",
+    "Stefan",
+    "Stölzle",
+    "ansible",
+    "Ansible",
+    "stoe"
+  ]
+}
